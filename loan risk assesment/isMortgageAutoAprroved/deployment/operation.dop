@@ -4,4 +4,13 @@
   <uuid>dca98a01-d4ee-4cc8-a55f-805cfdb179d0</uuid>
   <decisionModel href="../rules/decisionModel.dmo#bdbfdcbe-a6e4-48fd-b979-b665ba3c503c"/>
   <targetRuleProject href="../../isMortgageAutoAprroved#19eeea81-ce69-4987-8df2-a2738f0449dc"/>
+  <tags key="operationDescription">
+    <value><![CDATA[""]]></value>
+  </tags>
+  <tags key="operationName">
+    <value><![CDATA["isMortgageAutoAprroved"]]></value>
+  </tags>
+  <tags key="exposedAtRuntime">
+    <value><![CDATA[true]]></value>
+  </tags>
 </com.ibm.rules.studio.model.decisionservice:Operation>
